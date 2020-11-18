@@ -11,3 +11,13 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+@import "restaurants";
+
+.title{
+  color: #337ab7;
+  text-decoration: none;
+  font-family: "Roboto Slab";
+  font-weight: 400;
+  font-size: 24px;
+}
